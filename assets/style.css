@@ -3,8 +3,13 @@
   align-content: center;
 }
 #quiz{
-  margin-left: 250px;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+  color: red;
 }
 #questions{
-  align-content: center;
+  text-align: center;
+  text-transform: capitalize;
+  color:rgb(19, 28, 107);
 }
