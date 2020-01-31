@@ -1,0 +1,1 @@
+startScreenEl.setAtrribute('class','hide') // to hide an element 
